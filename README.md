@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan1609&show_icons=true)
 
-![Views Counter](https://komarev.com/ghpvc/?username=jonatan1609)
-
 My StackOverflow profile:
 
 <a href="https://stackoverflow.com/users/14088251/jonathan1609"><img src="https://stackoverflow.com/users/flair/14088251.png" alt="profile for Jonathan1609 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jonathan1609 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
